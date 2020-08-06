@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCardService", "SmartCardService\SmartCardService.csproj", "{074E0799-21AC-4AE6-A157-128A6484F784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{AB742662-91E3-43CB-8BD5-11E97EF989FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{AA8DFE38-2BA8-4B25-B277-23B9AD4E27BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{A8BD1819-C0A0-4E11-89A3-B72A014F0120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager\Manager.csproj", "{F46C0F1C-7E0A-4095-BBCD-1AE0D66507D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replicator", "Replicator\Replicator.csproj", "{90DFC3F5-24F9-42B6-80AB-234BEEE9A9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074E0799-21AC-4AE6-A157-128A6484F784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074E0799-21AC-4AE6-A157-128A6484F784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074E0799-21AC-4AE6-A157-128A6484F784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074E0799-21AC-4AE6-A157-128A6484F784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB742662-91E3-43CB-8BD5-11E97EF989FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB742662-91E3-43CB-8BD5-11E97EF989FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB742662-91E3-43CB-8BD5-11E97EF989FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB742662-91E3-43CB-8BD5-11E97EF989FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8DFE38-2BA8-4B25-B277-23B9AD4E27BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8DFE38-2BA8-4B25-B277-23B9AD4E27BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8DFE38-2BA8-4B25-B277-23B9AD4E27BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8DFE38-2BA8-4B25-B277-23B9AD4E27BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BD1819-C0A0-4E11-89A3-B72A014F0120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BD1819-C0A0-4E11-89A3-B72A014F0120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BD1819-C0A0-4E11-89A3-B72A014F0120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BD1819-C0A0-4E11-89A3-B72A014F0120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46C0F1C-7E0A-4095-BBCD-1AE0D66507D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46C0F1C-7E0A-4095-BBCD-1AE0D66507D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46C0F1C-7E0A-4095-BBCD-1AE0D66507D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46C0F1C-7E0A-4095-BBCD-1AE0D66507D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DFC3F5-24F9-42B6-80AB-234BEEE9A9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DFC3F5-24F9-42B6-80AB-234BEEE9A9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DFC3F5-24F9-42B6-80AB-234BEEE9A9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DFC3F5-24F9-42B6-80AB-234BEEE9A9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5CDC45-2B93-44BC-93BA-8349F04DD3BB}
+	EndGlobalSection
+EndGlobal

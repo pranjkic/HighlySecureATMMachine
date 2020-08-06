@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>Milica</Name>
+    <PIN>VY95dt/yPJi3vqL4dNmq4wmX22uXQqc3ywgfy99WIuw=</PIN>
+    <Cash>1</Cash>
+    <OrganizationalUnit>SmartCardUser</OrganizationalUnit>
+    <TimeOfAdding>2019-12-14T19:15:35.1352696+01:00</TimeOfAdding>
+  </User>
+</ArrayOfUser>

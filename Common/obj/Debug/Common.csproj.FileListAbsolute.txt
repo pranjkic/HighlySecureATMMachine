@@ -1,0 +1,18 @@
+C:\Users\Marko\Desktop\SBESProjekat\Common\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\SBESProjekat\Common\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\SBESProjekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\SBESProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\SBESProjekat\Common\obj\Debug\Common.dll
+C:\Users\Marko\Desktop\SBESProjekat\Common\obj\Debug\Common.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Common\bin\Debug\Common.dll
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Common\bin\Debug\Common.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Common\obj\Debug\Common.dll
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Common\obj\Debug\Common.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Common\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Common\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Common\obj\Debug\Common.dll
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Common\obj\Debug\Common.pdb

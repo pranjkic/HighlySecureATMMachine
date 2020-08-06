@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>Milica</Name>
+    <PIN>y/WGQ5A20HpV4FL2azwC5rmi30ZpKCa9m0NejXk8i48=</PIN>
+    <Cash>533</Cash>
+    <OrganizationalUnit>SmartCardUser</OrganizationalUnit>
+    <TimeOfAdding>2019-12-14T22:20:43.725318+01:00</TimeOfAdding>
+  </User>
+  <User>
+    <Name>u</Name>
+    <PIN>GaH7BaIhAnxc4ultcozQ7wV7HVrRMj7fkM6DqN/surQ=</PIN>
+    <Cash>1</Cash>
+    <OrganizationalUnit>Manager</OrganizationalUnit>
+    <TimeOfAdding>2019-12-14T20:19:27.1592684+01:00</TimeOfAdding>
+  </User>
+</ArrayOfUser>

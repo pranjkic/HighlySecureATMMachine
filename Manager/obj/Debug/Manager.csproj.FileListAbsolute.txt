@@ -1,0 +1,18 @@
+C:\Users\Marko\Desktop\SBESProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\Marko\Desktop\SBESProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\Marko\Desktop\SBESProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\SBESProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\Marko\Desktop\SBESProjekat\Manager\obj\Debug\Manager.pdb
+C:\Users\Marko\Desktop\SBESProjekat\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\Manager\obj\Debug\Manager.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\Manager\obj\Debug\Manager.pdb

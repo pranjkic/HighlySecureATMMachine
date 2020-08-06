@@ -1,0 +1,36 @@
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\bin\Debug\SmartCardService.exe.config
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\bin\Debug\SmartCardService.exe
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\bin\Debug\SmartCardService.pdb
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.csproj.CopyComplete
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.exe
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.pdb
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\bin\Debug\Manager.dll
+C:\Users\Marko\Desktop\SBESProjekat\SmartCardService\bin\Debug\Manager.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\bin\Debug\SmartCardService.exe.config
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\bin\Debug\SmartCardService.exe
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\bin\Debug\SmartCardService.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\bin\Debug\Common.dll
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\bin\Debug\Manager.dll
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\bin\Debug\Common.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\bin\Debug\Manager.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.csproj.CopyComplete
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.exe
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\bin\Debug\SmartCardService.exe.config
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\bin\Debug\SmartCardService.exe
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\bin\Debug\SmartCardService.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\bin\Debug\Manager.dll
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\bin\Debug\Manager.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.csproj.CopyComplete
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.exe
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\SmartCardService\obj\Debug\SmartCardService.pdb

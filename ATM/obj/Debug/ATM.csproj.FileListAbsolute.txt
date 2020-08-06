@@ -1,0 +1,45 @@
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\ATM.exe.config
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\ATM.exe
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\ATM.pdb
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\SmartCardService.exe
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\SmartCardService.pdb
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\SmartCardService.exe.config
+C:\Users\Marko\Desktop\SBESProjekat\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\SBESProjekat\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\SBESProjekat\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Marko\Desktop\SBESProjekat\ATM\obj\Debug\ATM.exe
+C:\Users\Marko\Desktop\SBESProjekat\ATM\obj\Debug\ATM.pdb
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\Manager.dll
+C:\Users\Marko\Desktop\SBESProjekat\ATM\bin\Debug\Manager.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\ATM.exe.config
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\ATM.exe
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\ATM.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\Common.dll
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\Manager.dll
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\SmartCardService.exe
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\Common.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\Manager.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\SmartCardService.pdb
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\bin\Debug\SmartCardService.exe.config
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\obj\Debug\ATM.exe
+C:\Users\Milica\Desktop\SEBS\Projekat\New folder\SBESProjekat\ATM\obj\Debug\ATM.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\ATM.exe
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\Manager.dll
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\ATM.exe.config
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\ATM.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\SmartCardService.exe
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\Manager.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\SmartCardService.pdb
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\bin\Debug\SmartCardService.exe.config
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\obj\Debug\ATM.exe
+C:\Users\Marko\Desktop\SBESProjekat5\SBESProjekat\ATM\obj\Debug\ATM.pdb
